@@ -35,4 +35,4 @@ export const GAMES = [
     ads: '2',
     cover: require('../assets/games/game-6.png')
   },
-];
+]
